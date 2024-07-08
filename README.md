@@ -9,7 +9,6 @@ Watchwise uses auto encoder type architecture to obtain embeddings
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Example](#example)
 - [Model Used](#Model_Used)
 
 ## Introduction
