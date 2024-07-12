@@ -24,11 +24,5 @@ The recommender system uses a multi-label binarizer to encode movie tags into bi
 - Pandas
 
 ## Model_Used
-The neural network used in this content-based movie recommender system is an autoencoder. Let's delve into what an autoencoder is and how it is used in this context.
+The neural network used in this content-based movie recommender system is an autoencoder.
 
-Autoencoder Overview
-An autoencoder is a type of artificial neural network used to learn efficient representations of data, typically for the purpose of dimensionality reduction or feature learning. The network architecture consists of two main parts:
-
-Encoder: This part compresses the input data into a lower-dimensional representation, known as the latent space or embedding.
-Decoder: This part reconstructs the input data from the lower-dimensional representation.
-The goal of the autoencoder is to reconstruct the input as accurately as possible, thus forcing the network to learn the most important features of the data.
